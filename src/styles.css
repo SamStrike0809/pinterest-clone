@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 100%;
+  columns: 5;
+  column-gap: 15px;
+  padding: 15px;
+}
+img {
+  width: 100%;
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
+p {
+  padding-top: 0;
+  margin-bottom: 50px;
+  text-align: left;
+  font-weight: bold;
+  font-family: Helvetica, Arial, sans-serif;
+}
