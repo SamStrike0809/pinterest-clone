@@ -1,5 +1,6 @@
 {
-  "name": "react",
+  "name": "pinterest_clone",
+  "homepage":"https://samstrike0809.github.io/pinterest_clone/",
   "version": "1.0.0",
   "description": "React example starter project",
   "keywords": [
