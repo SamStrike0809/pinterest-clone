@@ -1,6 +1,6 @@
 {
   "name": "pinterest_clone",
-  "homepage":"https://samstrike0809.github.io/pinterest_clone/",
+  "homepage": "https://samstrike0809.github.io/pinterest_clone/",
   "version": "1.0.0",
   "description": "React example starter project",
   "keywords": [
@@ -16,6 +16,7 @@
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
+    "gh-pages": "^4.0.0",
     "typescript": "4.1.3"
   },
   "scripts": {
